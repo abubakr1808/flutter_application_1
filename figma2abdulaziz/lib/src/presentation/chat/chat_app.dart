@@ -361,7 +361,7 @@ class _chatppState extends State<chatpp> {
                     child: Container(
                       margin: EdgeInsets.only(right: 24),
                       width: 200,
-                      height: 48,
+                      height: 47,
                       decoration: BoxDecoration(
                         color: _selectedIndexA == index
                             ? Colors.white
