@@ -65,7 +65,7 @@ class _chatppState extends State<chatpp> {
           ),
           Container(
             width: double.infinity,
-            height: 344,
+            height: 343,
             decoration: BoxDecoration(
               color: Color(0xffF0F2F7),
               borderRadius: BorderRadius.circular(15),
